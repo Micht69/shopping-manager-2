@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping Manager</string>
+    <string name="msg_item_buyed">Item \'%s\' buyed</string>
+    <string name="btn_item_add">Add Item</string>
+    <string name="btn_item_edit">Edit</string>
+
+</resources>
